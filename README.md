@@ -13,7 +13,7 @@
     <td>Publication</td>
   </tr>
   <tr>
-    <td>[SVDD](https://github.com/naughtybabyfirst/One-Class-Classification/blob/main/Tax-Duin2004_Article_SupportVectorDataDescription.pdf)</td>
+    <td><a href="https://github.com/naughtybabyfirst/One-Class-Classification/blob/main/Tax-Duin2004_Article_SupportVectorDataDescription.pdf">SVDD</a></td>
     <td>-</td>
     <td>Statistical</td>
     <td>Positive</td>
@@ -21,7 +21,7 @@
   </tr>
   
   <tr>
-    <td>[GODS](https://github.com/naughtybabyfirst/One-Class-Classification/blob/main/Generalized%20One%20Class%20Discriminative%20Subspace%20for%20Anomaly%20Detection.pdf)</td>
+    <td><a href="https://github.com/naughtybabyfirst/One-Class-Classification/blob/main/Generalized%20One%20Class%20Discriminative%20Subspace%20for%20Anomaly%20Detection.pdf">GODS</a></td>
     <td>-</td>
     <td>Statistical</td>
     <td>Positive</td>
